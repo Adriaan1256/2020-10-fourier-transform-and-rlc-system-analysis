@@ -73,7 +73,7 @@ The complete report including:
 
 is available here:
 
-👉 **[View Full Project Report (PDF)](ELI220_Practical_Assignment_2.pdf)**
+👉 **[View Full Project Report (PDF)](docs/ELI220_Practical_Assignment_2.pdf)**
 
 All Python source code is included in Appendix A of the report.
 
